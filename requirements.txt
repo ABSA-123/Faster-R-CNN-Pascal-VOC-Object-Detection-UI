@@ -1,0 +1,7 @@
+torch
+torchvision
+torchmetrics[detection]
+matplotlib
+tqdm
+streamlit
+pillow

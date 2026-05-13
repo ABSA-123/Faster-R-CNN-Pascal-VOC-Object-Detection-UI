@@ -1,0 +1,14 @@
+VOC_data/
+checkpoints/
+outputs/
+__pycache__/
+.idea/
+.venv/
+*.py[cod]
+*.pt
+*.pth
+*.log
+*.pdf
+*.docx
+report_assets/
+report_rendered_pages/
