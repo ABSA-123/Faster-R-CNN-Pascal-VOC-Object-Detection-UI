@@ -144,18 +144,6 @@ The dataset, virtual environment, trained checkpoints, reports, and generated
 artifacts are intentionally ignored by Git. This keeps the repository small and
 focused on source code.
 
-Ignored local files include:
-
-- `.venv/`
-- `VOC_data/`
-- `checkpoints/`
-- `outputs/`
-- `*.pt`
-- `*.pth`
-- `*.pdf`
-- `*.docx`
-- log files
-
 ## Assignment Context
 
 This project was built as a multimedia-based system prototype for object
